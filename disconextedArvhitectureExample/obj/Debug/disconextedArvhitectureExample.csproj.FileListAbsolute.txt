@@ -1,0 +1,10 @@
+C:\Users\rohit\source\repos\disconextedArvhitectureExample\disconextedArvhitectureExample\bin\Debug\disconextedArvhitectureExample.exe.config
+C:\Users\rohit\source\repos\disconextedArvhitectureExample\disconextedArvhitectureExample\bin\Debug\disconextedArvhitectureExample.exe
+C:\Users\rohit\source\repos\disconextedArvhitectureExample\disconextedArvhitectureExample\bin\Debug\disconextedArvhitectureExample.pdb
+C:\Users\rohit\source\repos\disconextedArvhitectureExample\disconextedArvhitectureExample\obj\Debug\disconextedArvhitectureExample.csproj.AssemblyReference.cache
+C:\Users\rohit\source\repos\disconextedArvhitectureExample\disconextedArvhitectureExample\obj\Debug\disconextedArvhitectureExample.Form1.resources
+C:\Users\rohit\source\repos\disconextedArvhitectureExample\disconextedArvhitectureExample\obj\Debug\disconextedArvhitectureExample.Properties.Resources.resources
+C:\Users\rohit\source\repos\disconextedArvhitectureExample\disconextedArvhitectureExample\obj\Debug\disconextedArvhitectureExample.csproj.GenerateResource.cache
+C:\Users\rohit\source\repos\disconextedArvhitectureExample\disconextedArvhitectureExample\obj\Debug\disconextedArvhitectureExample.csproj.CoreCompileInputs.cache
+C:\Users\rohit\source\repos\disconextedArvhitectureExample\disconextedArvhitectureExample\obj\Debug\disconextedArvhitectureExample.exe
+C:\Users\rohit\source\repos\disconextedArvhitectureExample\disconextedArvhitectureExample\obj\Debug\disconextedArvhitectureExample.pdb
